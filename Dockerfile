@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:18.04
 
 # https://serverfault.com/a/1016972 to ensure installing tzdata does
 # not result in a prompt that hangs forever.
